@@ -1,5 +1,5 @@
 This is the first HTML and CSS project through The Odin Project.
-As the name suggests, this is a simple replica of the HTML and CSS of the desktop version of the Google Homepage (June 2020)
+As the name suggests, this is a simple replica of the desktop version of the Google Homepage (June 2020)
 
 Skills demonstrated:
 - Flexbox (used for the body, main section, and navs)
